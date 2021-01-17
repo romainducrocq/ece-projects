@@ -1,0 +1,16 @@
+test
+3
+easy
+10
+medium
+3
+hard
+3
+FIN
+Jouer
+Brute Force
+BFS
+DFS
+Best FS
+A Star
+FIN

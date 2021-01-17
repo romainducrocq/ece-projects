@@ -1,0 +1,33 @@
+.purple {
+	height: 200px;
+	background-color :purple ;
+}
+
+.purple2 {
+	height: 140px;
+	background-color :purple ;
+}
+.position {
+	height: 200px;
+	float:right; 
+	margin-top:200px;
+    margin-right:0px;
+   
+}
+.contenu{
+	margin-top:20px;
+	text-align: center;
+}
+
+
+.contenu2{
+	margin-left:500px;
+	margin-top: 20px;
+}
+
+
+
+h1 {
+	color :white ;
+	text-align: center;
+}

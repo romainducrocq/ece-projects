@@ -1,0 +1,58 @@
+.purple {
+
+  height: 80px;
+  background-color :purple ;
+  color :white ;
+
+}
+h1 {
+	color :white ;
+	text-align: center;
+}
+
+.button1
+{
+	display: inline-block;
+    margin-left: 1000px;
+    margin-top: 20px;
+}
+.button2
+{
+	display: inline-block;
+    
+}
+
+.menu1 { /* onglets*/
+
+  border-bottom:solid 2px black ; 
+ 
+  padding-top:12px ; 
+  padding-bottom:7px;
+  margin-top:60px;} 
+  
+
+
+.onglet { /* onglets inactifs */
+  border:solid 1px black ; 
+  margin:5px 5px 0px 5px ;  
+  padding:7px 3px 7px 3px} 
+
+a.onglet { 
+  background-color:#E7E4E4 ; 
+  text-decoration:none} 
+
+.onglet-actif { /* style de l'onglet actif */
+   border:solid 2px black ; 
+   border-bottom:solid 3px white ; 
+   margin:5px 5px 0px 5px ; 
+   padding:7px 3px 7px 3px ;  
+   background-color:white} 
+
+   .contenu{
+  text-align: left;
+  
+}
+
+.droite{
+   margin-left:1000px;
+}

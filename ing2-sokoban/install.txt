@@ -1,0 +1,8 @@
+Linux : 
+
+chmod +x allegro/lin/install-allegro fmod/lin/install-fmod
+allegro/lin/install-allegro
+fmod/lin/install-fmod
+make
+build/apps/exec
+

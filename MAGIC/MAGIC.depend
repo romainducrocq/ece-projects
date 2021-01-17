@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1451438596 source:c:\users\bénédicte\desktop\magic\magic\deck.cpp
+	"Deck.h"
+	"pConsole.h"
+
+1451437172 c:\users\bénédicte\desktop\magic\magic\deck.h
+	"pConsole.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+
+1451428280 c:\users\bénédicte\desktop\magic\magic\pconsole.h
+	<iostream>
+
+1451428114 source:c:\users\bénédicte\desktop\magic\magic\pconsole.cpp
+	"pConsole.h"
+	<conio.h>
+	<windows.h>
+
+1451438226 source:c:\users\bénédicte\desktop\magic\magic\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	"Deck.h"
+	"pConsole.h"
+

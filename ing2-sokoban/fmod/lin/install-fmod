@@ -1,0 +1,19 @@
+#!/bin/bash
+
+UNAME=$(uname -m)
+SYS=""
+
+if [ "${UNAME}" == "x86_64" ]; then
+	SYS="x86_64"
+elif [ "${UNAME}" == "i386" ] || [ "${UNAME}" == "i686" ]; then
+	SYS="x86"
+fi
+
+sudo chown root fmod/lin/lib/"${SYS}"/*
+sudo chgrp root fmod/lin/lib/"${SYS}"/*
+sudo cp -v fmod/lin/lib/"${SYS}"/* /usr/lib/
+
+sudo mkdir -v /usr/include/fmod
+sudo chown root fmod/lin/inc/*
+sudo chgrp root fmod/lin/inc/*
+sudo cp -v fmod/lin/inc/* /usr/include/fmod/

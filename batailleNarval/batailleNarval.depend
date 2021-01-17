@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1490606317 source:c:\users\admin.pc-lab\documents\bataillenarval\bateau.cpp
+	"bateau.h"
+
+1490606316 c:\users\admin.pc-lab\documents\bataillenarval\bateau.h
+	<fstream>
+	<vector>
+	"VARG.h"
+
+1490606317 c:\users\admin.pc-lab\documents\bataillenarval\varg.h
+	<fstream>
+	<climits>
+
+1490606317 source:c:\users\admin.pc-lab\documents\bataillenarval\capitaine.cpp
+	"capitaine.h"
+
+1490606717 c:\users\admin.pc-lab\documents\bataillenarval\capitaine.h
+	<vector>
+	"flotte.h"
+	"VARG.h"
+
+1490606316 c:\users\admin.pc-lab\documents\bataillenarval\flotte.h
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<iostream>
+	"bateau.h"
+	"VARG.h"
+
+1490606731 source:c:\users\admin.pc-lab\documents\bataillenarval\console.cpp
+	"console.h"
+
+1490606316 c:\users\admin.pc-lab\documents\bataillenarval\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1490606317 source:c:\users\admin.pc-lab\documents\bataillenarval\fight.cpp
+	"fight.h"
+
+1490606316 c:\users\admin.pc-lab\documents\bataillenarval\fight.h
+	"capitaine.h"
+	"console.h"
+	"VARG.h"
+
+1490606737 source:c:\users\admin.pc-lab\documents\bataillenarval\flotte.cpp
+	"flotte.h"
+
+1490606317 source:c:\users\admin.pc-lab\documents\bataillenarval\main.cpp
+	<iostream>
+	"menu.h"
+
+1490606317 c:\users\admin.pc-lab\documents\bataillenarval\menu.h
+	"fight.h"
+	"console.h"
+	"VARG.h"
+
+1490606317 source:c:\users\admin.pc-lab\documents\bataillenarval\menu.cpp
+	"menu.h"
+
+1490606318 source:c:\users\admin.pc-lab\documents\bataillenarval\varg.cpp
+	"VARG.h"
+

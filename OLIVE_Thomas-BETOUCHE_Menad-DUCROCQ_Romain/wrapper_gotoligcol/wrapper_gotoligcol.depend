@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1445693651 source:c:\users\florent\desktop\wrapper_gotoligcol\main.cpp
+	<iostream>
+	"console.h"
+
+1445693719 c:\users\florent\desktop\wrapper_gotoligcol\console.h
+	<iostream>
+
+1445693551 source:c:\users\florent\desktop\wrapper_gotoligcol\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
